@@ -37,11 +37,12 @@ All these steps, settings, algorithms and their parameters can be automated usin
 
 ### Cite This Work
 ```
-@INPROCEEDINGS {10707851,
+@article {minhas2018jjit,
   author = {Minhas Kamal, Amin Ahsan Ali, Muhammad Asif Hossain Khan, Mohammad Shoyaib},
   title = {Braille to Text Translation for Bengali Language: A Geometric Approach},
-  booktitle = {2018 Jahangir Nagar University Journal of Information Technology (JIT)},
+  journal = {2018 Jahangir Nagar University Journal of Information Technology (JJIT)},
   pages = {93-111},
+  volume = {7},
   year = {2018}
 }
 ```
